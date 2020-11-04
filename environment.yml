@@ -1,5 +1,0 @@
-channels:
-  - bioconda
-dependencies:
-  - r-base=3.6
-  - bioconductor-deseq
