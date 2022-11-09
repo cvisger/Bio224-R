@@ -1,2 +1,2 @@
 install.packages("BiocManager")
-BiocManager::install("DESeq")
+BiocManager::install("DESeq2")
